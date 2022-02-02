@@ -26,3 +26,4 @@ streamslice(x, y, Bx, By);
 box on;
 title('Sky Bjel (bjels, 400255999)');
 xlabel('x'); ylabel('y');
+
